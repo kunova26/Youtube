@@ -1,0 +1,23 @@
+{
+ "lion": {
+  "desc": "a chubby baby lion cub with a big round fluffy orange mane made of puffy round tufts, a small yellow curl on top of the head, soft yellow plush body, cream muzzle, small brown nose, rosy cheeks, round ears, teal denim overall shorts with a yellow sun embroidered on the bib pocket and orange buttons, thin tail with an orange tuft",
+  "refs": [
+   "人物/lion_turnaround.png",
+   "人物/lion_expressions.png"
+  ]
+ },
+ "otter": {
+  "desc": "a chubby baby otter with brown plush fur, cream face and belly, whiskers, small round ears, a coral-orange vest with yellow buttons and two pockets, a long thick brown tail",
+  "refs": [
+   "人物/otter_turnaround.png",
+   "人物/otter_expressions.png"
+  ]
+ },
+ "elephant": {
+  "desc": "a chubby baby elephant with lavender plush skin, big ears with pink insides, a small purple tuft of hair on top, eyelashes, rosy cheeks, a pale yellow romper with a scalloped cream collar, yellow buttons and puffy bloomer shorts, a thin tail with a purple tuft",
+  "refs": [
+   "人物/elephant_turnaround.png",
+   "人物/elephant_expressions.png"
+  ]
+ }
+}
